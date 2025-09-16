@@ -28,14 +28,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylesilva-dev&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect  
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio / Website](https://your-website.com)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylesilva-dev&layout=compact&theme=tokyonight)  
 
 ---
+
