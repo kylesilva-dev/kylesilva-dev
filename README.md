@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mercy  
+# Hey 👋 I'm Mercy  
 
 💻 **Developer in progress | Data Analyst**  
 📊 Passion for **turning data into insights** and building efficient web solutions.  
@@ -16,10 +16,10 @@
 
 **Languages & Tools**  
 - HTML | CSS | JavaScript  
-- Python (Pandas, NumPy, Matplotlib)  
-- SQL  
+- R & R Markdown  
+- Excel & Power BI
 - Git & GitHub  
-- VS Code | Jupyter Notebook  
+- VS Code
 
 **Currently Exploring**  
 - React & frontend frameworks  
